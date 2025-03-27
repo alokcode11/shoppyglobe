@@ -46,7 +46,7 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/shoppyglobe.git
+   git clone https://github.com/alokcode11/shoppyglobe
    cd shoppyglobe
    ```
 
